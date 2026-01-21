@@ -21,13 +21,8 @@ python3 -m http.server 8000
 ```
 Then navigate to `http://localhost:8000/index.html`
 
-### Option 3: Live Server (VS Code)
-If you have the Live Server extension installed, right-click `index.html` and select "Open with Live Server".
+### Mobile Viewing
+The interface is responsive and adapts to your device's screen size. To view it in mobile phone resolution, open `index.html` directly on your phone.
 
-## Features
 
-- 4-year academic roadmap overview
-- Color-coded difficulty ratings (green/orange/red)
-- Semester-by-semester credit breakdowns
-- Responsive mobile-first design
-- Clean, modern UI with hover effects
+
